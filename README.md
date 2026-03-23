@@ -49,7 +49,7 @@ Nosso projeto utilizará a linguagem Python para realizar as seguintes etapas:
 
 - Organização do Repositório no GitHub e Documentação inicial do Projeto
 
-## Cronograma
+## Cronômetro
 
 **Semana 1:**
 
