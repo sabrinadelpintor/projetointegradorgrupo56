@@ -3,7 +3,7 @@ Projeto Integrador - Grupo 56 - Ciência de Dados - Etapa 1
 # Tema do Projeto: Análise de dados de vendas de uma loja
 
 ## 1. Integrantes
-- Analu
+- Ana Luiza
 - Beatriz
 - Luan
 - Matheus
@@ -19,53 +19,23 @@ Projeto Integrador - Grupo 56 - Ciência de Dados - Etapa 1
 ## 3. Planejamento do Processo de ETL
 Nosso projeto utilizará a linguagem Python para realizar as seguintes etapas:
 
-
 ## Planejamento das Tarefas
 - Escolha e análise da base de dados
+- Implementação do processo de ETL (Extração, Transformação e Carga)
 - Limpeza e transformação dos dados
-- Implementação do processo de etl
 - Armazenamento dos dados em banco de dados
 - Criação de um dashboard interativo
 
 ## 4. Divisão de Tarefas e Cronograma
+Para garantir uma organização ágil e transparente, centralizamos as responsabilidades e os prazos na tabela abaixo. Cada membro lidera uma frente, seguindo a ordem lógica do processo de ETL
 
-**Analu:**
-- Desenvolvimento do Dashboard Interativo utilizando Streamlit
-
-**Beatriz:**
-- Tratamento e transformação dos dados utilizando biblioteca Pandas
-
-**Luan:**
-- Modelagem e Armazenamento dos dados em Banco de Dados
-
-**Matheus:**
-- Implementação do Processo de ETL
-
-**Sabrina:**
-- Organização do Repositório no GitHub e Documentação inicial do Projeto
-
-## Cronograma
-
-**Semana 1:**
-
-- Definição da Base de Dados
-- Planejamento do Projeto
-
-**Semana 2:**
-
-- Limpeza e transformação dos dados utilizando Pandas
-
-**Semana 3:**
-
-- Implementação do Processo de ETL
-
-**Semana 4:**
-
-- Armazenamento dos dados no Banco de Dados
-
-**Semana 5:**
-
-- Desenvolvimento do Dashboard Interativo com Streamlit
+| Prazo | Etapa do Projeto | Responsável | Tarefa Principal |
+| :--- | :--- | :--- | :--- |
+| **Semana&nbsp;1** | Planejamento | **Sabrina** | Organização do repositório no GitHub, documentação inicial e definição da base. |
+| **Semana&nbsp;2** | Extração (Extract) | **Matheus** | Configuração inicial do ambiente de código e extração dos dados. |
+| **Semana&nbsp;3** | Transformação (Transform) | **Beatriz** | Tratamento e transformação dos dados utilizando a biblioteca **Pandas**. |
+| **Semana&nbsp;4** | Carga (Load) | **Luan** | Modelagem e armazenamento dos dados estruturados no Banco de Dados. |
+| **Semana&nbsp;5** | Visualização | **Ana Luiza** | Desenvolvimento do dashboard interativo utilizando a biblioteca **Streamlit**. |
 
 ## 5. Ideia Inicial do Dashboard
 
@@ -81,7 +51,7 @@ O dashboard interativo deverá apresentar as seguintes visualizações e indicad
 
 ## 6. Transformações de Dados Planejadas
 
-Durante o processo de ETL pretendemos realizar algumas transformações nos dados, como:
+Utilizando a biblioteca **Pandas**, pretendemos realizar algumas transformações nos dados, como:
 
 - Tratamento de valores ausentes
 - Padronização de nomes de colunas
