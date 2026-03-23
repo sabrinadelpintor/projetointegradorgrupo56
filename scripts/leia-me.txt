@@ -1,2 +1,2 @@
 
-Aqui ficará os códigos em Python.
+Aqui ficarão os códigos em Python.
