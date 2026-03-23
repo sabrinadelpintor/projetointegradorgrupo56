@@ -1,6 +1,6 @@
 # projetointegradorgrupo56
 Projeto Integrador - Grupo 56 - Ciência de Dados - Etapa 1
-# Análise de dados de vendas de uma loja
+# Tema do Projeto: Análise de dados de vendas de uma loja
 
 ## 1. Integrantes
 - Sabrina
