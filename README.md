@@ -49,22 +49,27 @@ Nosso projeto utilizará a linguagem Python para realizar as seguintes etapas:
 
 - Organização do Repositório no GitHub e Documentação inicial do Projeto
 
-## Cronograma
+**Cronograma**
 
 **Semana 1:**
+
 - Definição da Base de Dados
 - Planejamento do Projeto
 
 **Semana 2:**
+
 - Limpeza e transformação dos dados utilizando Pandas
 
 **Semana 3:**
+
 - Implementação do Processo de ETL
 
 **Semana 4:**
+
 - Armazenamento dos dados no Banco de Dados
 
 **Semana 5:**
+
 - Desenvolvimento do Dashboard Interativo com Streamlit
 
 ## 5. Ideia Inicial do Dashboard
