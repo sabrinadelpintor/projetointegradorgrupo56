@@ -20,16 +20,48 @@ Projeto Integrador - Grupo 56 - Ciência de Dados - Etapa 1
 Nosso projeto utilizará a linguagem Python para realizar as seguintes etapas:
 
 
-
-
 ## Planejamento das Tarefas
 - Escolha e análise da base de dados
 - Limpeza e transformação dos dados
 - Implementação do processo de etl
 - Armazenamento dos dados em banco de dados
 - Criação de um dashboard interativo
+
 ## 4. Divisão de Tarefas e Cronograma
 
+**Analu:**
+- Desenvolvimento do Dashboard Interativo utilizando Streamlit
+
+**Beatriz:**
+
+-Tratamento e transformação dos dados utilizando biblioteca Pandas
+
+**Luan:**
+- Modelagem e Armazenamento dos dados em Banco de Dados
+
+**Matheus:**
+- Implementação do Processo de ETL
+
+**Sabrina:**
+- Organização do Repositório no GitHub e Documentação inicial do Projeto
+
+## Cronograma
+
+**Semana 1:**
+- Definição da Base de Dados
+- Planejamento do Projeto
+
+**Semana 2:**
+- Limpeza e transformação dos dados utilizando Pandas
+
+**Semana 3:**
+- Implementação do Processo de ETL
+
+**Semana 4:**
+- Armazenamento dos dados no Banco de Dados
+
+**Semana 5:**
+- Desenvolvimento do Dashboard Interativo com Streamlit
 
 ## 5. Ideia Inicial do Dashboard
 O dashboard interativo deverá apresentar as seguintes visualizações e indicadores:
