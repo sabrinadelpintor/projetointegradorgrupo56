@@ -33,7 +33,6 @@ Nosso projeto utilizará a linguagem Python para realizar as seguintes etapas:
 - Desenvolvimento do Dashboard Interativo utilizando Streamlit
 
 **Beatriz:**
-
 -Tratamento e transformação dos dados utilizando biblioteca Pandas
 
 **Luan:**
