@@ -72,3 +72,13 @@ O dashboard interativo deverá apresentar as seguintes visualizações e indicad
 **Gráfico de Pizza/Rosca:** Proporção de vendas por região.
 
 **Gráfico de Linhas:** Evolução das vendas ao longo do tempo (análise temporal).
+
+## 6. Transformações de Dados Planejadas
+
+Durante o processo de ETL pretendemos realizar algumas transformações nos dados, como:
+
+- Tratamento de valores ausentes
+- Padronização de nomes de colunas
+- Conversão de campos de data para formato adequado
+- Agregação de dados para cálculo de métricas de vendas
+- Organização das tabelas para armazenamento em banco de dados.
