@@ -30,18 +30,23 @@ Nosso projeto utilizará a linguagem Python para realizar as seguintes etapas:
 ## 4. Divisão de Tarefas e Cronograma
 
 **Analu:**
+
 - Desenvolvimento do Dashboard Interativo utilizando Streamlit
 
 **Beatriz:**
--Tratamento e transformação dos dados utilizando biblioteca Pandas
+
+- Tratamento e transformação dos dados utilizando biblioteca Pandas
 
 **Luan:**
+
 - Modelagem e Armazenamento dos dados em Banco de Dados
 
 **Matheus:**
+
 - Implementação do Processo de ETL
 
 **Sabrina:**
+
 - Organização do Repositório no GitHub e Documentação inicial do Projeto
 
 ## Cronograma
@@ -63,6 +68,7 @@ Nosso projeto utilizará a linguagem Python para realizar as seguintes etapas:
 - Desenvolvimento do Dashboard Interativo com Streamlit
 
 ## 5. Ideia Inicial do Dashboard
+
 O dashboard interativo deverá apresentar as seguintes visualizações e indicadores:
 
 **Cards (Indicadores):** Faturamento total e Quantidade total de itens vendidos.
