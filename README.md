@@ -3,11 +3,11 @@ Projeto Integrador - Grupo 56 - Ciência de Dados - Etapa 1
 # Tema do Projeto: Análise de dados de vendas de uma loja
 
 ## 1. Integrantes
-- Sabrina
-- Matheus
+- Analu
 - Beatriz
 - Luan
-- Analu
+- Matheus
+- Sabrina
   
 ## 2. Base de dados e Contextualização
 **Contexto e Origem:** Utilizaremos o dataset "Store Sales Forecasting Dataset", dispolibilizado publicamente na plataforma Kaggle. Esta base contém registros históricos de transações comerciais, englobando detalhes de faturamento, categorias de produtos e datas de venda.
@@ -30,23 +30,18 @@ Nosso projeto utilizará a linguagem Python para realizar as seguintes etapas:
 ## 4. Divisão de Tarefas e Cronograma
 
 **Analu:**
-
 - Desenvolvimento do Dashboard Interativo utilizando Streamlit
 
 **Beatriz:**
-
 - Tratamento e transformação dos dados utilizando biblioteca Pandas
 
 **Luan:**
-
 - Modelagem e Armazenamento dos dados em Banco de Dados
 
 **Matheus:**
-
 - Implementação do Processo de ETL
 
 **Sabrina:**
-
 - Organização do Repositório no GitHub e Documentação inicial do Projeto
 
 ## Cronograma
