@@ -58,3 +58,16 @@ Utilizando a biblioteca **Pandas**, pretendemos realizar algumas transformaçõe
 - Conversão de campos de data para formato adequado
 - Agregação de dados para cálculo de métricas de vendas
 - Organização das tabelas para armazenamento em banco de dados.
+
+
+## Execução do Projeto - Etapa 2
+
+Nesta etapa, iniciamos a execução do projeto conforme o planejamento definido.
+
+Foi realizada a validação inicial da base de dados, incluindo testes de leitura e verificação da estrutura das colunas.
+
+As próximas etapas incluem:
+- Extração dos dados (responsável: Matheus)
+- Transformação dos dados (responsável: Beatriz)
+- Armazenamento (responsável: Luan)
+- Visualização em dashboard (responsável: Ana Luiza)
