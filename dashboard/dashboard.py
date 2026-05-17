@@ -12,7 +12,7 @@ st.write("Acompanhamento de faturamento e desempenho dos produtos.")
 @st.cache_data
 def carregar_dados():
     # CUIDADO: Mantenha o caminho completo que você copiou aí no seu computador
-    df = pd.read_csv(r'../dados/stores_sales_forecasting.csv', encoding='latin1')
+    df = pd.read_csv(r'dados/stores_sales_forecasting.csv', encoding='latin1')
     
     # Padronizando os nomes das colunas
     df.columns = df.columns.str.lower().str.replace(' ', '_').str.replace('[^a-zA-Z0-9_]', '', regex=True)
