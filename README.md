@@ -71,3 +71,9 @@ As próximas etapas incluem:
 - Transformação dos dados (responsável: Beatriz)
 - Armazenamento (responsável: Luan)
 - Visualização em dashboard (responsável: Ana Luiza)
+
+- ## Dashboard Online
+
+A aplicação pode ser acessada pelo link abaixo:
+
+https://projetointegradorgrupo56-7uypu63iwsxkfzfny6nkqi.streamlit.app
