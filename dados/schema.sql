@@ -1,5 +1,3 @@
--- dados/schema.sql
-
 CREATE TABLE IF NOT EXISTS vendas_forecast (
     row_id INT PRIMARY KEY,
     order_id VARCHAR(50),
