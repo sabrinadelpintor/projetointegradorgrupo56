@@ -77,3 +77,7 @@ As próximas etapas incluem:
 A aplicação pode ser acessada pelo link abaixo:
 
 https://projetointegradorgrupo56-7uypu63iwsxkfzfny6nkqi.streamlit.app
+
+## 7. Etapa Extract
+
+A etapa de extract é responsável pela leitura e coleta dos dados da base CSV utilizada no projeto. Nesta fase, os dados são carregados com Python e Pandas para posterior tratamento e análise.
